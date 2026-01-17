@@ -1,0 +1,38 @@
+
+
+
+
+Data Structure
+
+Array...
+
+1. 1D Array (Index Array)
+2. 2D Array
+3. Associative Array
+
+let mark1 = 40
+let mark2 = 90
+let mark3 = 32
+
+1D Array (Index Array)
+let marks = [40, 90, 32, 67]
+             0    1   2   3
+let quotes = ['The earth is round', 'Man is mortal'];       
+
+Associative Array (Object)
+
+let name = "Rahim";
+let age = 32;
+let blood = "A+";
+let phone = "+8801XXXXXXXX";
+
+
+2D Array
+
+
+let matrix = [
+    [4, 9, 10, 90, 0],
+    [10, 20, 11, 2, 6],
+    [3, 4, 7, 0, 1],
+    [2, 5, 13, 9, 14]
+];
